@@ -45,3 +45,7 @@ pip install git+https://github.com/tensorflow/examples.git
 
 In google colab, please upload the data-science-bowl-2018.zip file before running the notebook.
 Note that you may have to restart the kernel few times to update the environment in google colab.
+
+
+## Source Code
+- datasets : https://www.kaggle.com/competitions/data-science-bowl-2018/overview
